@@ -205,12 +205,6 @@ BUILD SUCCESS
 
 ---
 
-## 💼 Resume Bullet
-
-> Built production-grade Limit Order Book engine in Java implementing price-time priority matching, supporting limit and market orders with O(1) cancel and O(log n) insertion, validated with 27 unit tests.
-
----
-
 ## 👤 Author
 
 **Rupesh Goswami**
