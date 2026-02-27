@@ -1,0 +1,11 @@
+order_id,symbol,side,type,price,quantity,notes
+1,RELIANCE,BID,LIMIT,2500.00,500,Large buy order
+2,RELIANCE,BID,LIMIT,2499.00,1000,Buy below market
+3,RELIANCE,BID,LIMIT,2498.00,750,Support level buy
+4,RELIANCE,ASK,LIMIT,2501.00,300,Small sell order
+5,RELIANCE,ASK,LIMIT,2502.00,500,Medium sell order
+6,RELIANCE,ASK,LIMIT,2503.00,200,Small sell order
+7,RELIANCE,BID,MARKET,0.00,200,Market buy order
+8,RELIANCE,ASK,MARKET,0.00,300,Market sell order
+9,TCS,BID,LIMIT,3800.00,100,TCS buy order
+10,TCS,ASK,LIMIT,3802.00,100,TCS sell order
